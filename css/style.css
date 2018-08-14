@@ -799,3 +799,5 @@ background-color: rgba(196, 0, 106, 0.6);
 		display: block;
 	}
 }
+
+body{display: none}
